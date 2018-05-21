@@ -1,0 +1,12 @@
+HOW TO GIT FROM COMMAND LINE
+
+0. git init                     Create new git repository
+1. Navigate to root directory   e.g. ShelterProject2340
+2. git clone URL                clone files from repo url (if depo is empty)
+-- git pull origin BRANCH       pull files from repo branch specified
+-- code and edit --
+3. git status                   checks status of repo, if you need to do anything
+4. git add .                    preps all files for commit
+-- git add filename             adds specific file for commit
+5. git commit -m "COMMENTS"     commits file and adds comments
+6. git push -u origin HEAD      pushes changes to master
