@@ -1,0 +1,17 @@
+WES
+for phone repair only
+
+about us, blah
+register/log in
+ecommerce to select repair
+    click iphone 6, add repairs
+    integrate counter for repairs
+iphone 6
+    drop down for repairs
+email to wes saying what repairs needed
+be able to print shipping label
+
+
+QUESTIONS
+what pages do you want
+are payments made on website or in person
