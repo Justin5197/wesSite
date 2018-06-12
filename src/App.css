@@ -30,6 +30,14 @@ ul {
     background-color: #333;
 }
 
+.repair-sub-menu {
+  display: none;
+}
+
+.main-menu li:hover .repair-sub-menu {
+  display: block;
+}
+
 li {
     float: left;
 }
@@ -40,6 +48,14 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+.login {
+  align-content: right;
+}
+
+#login {
+  text-align: right;
 }
 
 .parallax {

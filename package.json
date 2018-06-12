@@ -8,7 +8,8 @@
     "mysql": "^2.15.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "shopify-buy": "^1.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
