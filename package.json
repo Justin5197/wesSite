@@ -5,6 +5,7 @@
   "homepage": "https://github.com/Justin5197/wessite.git",
   "dependencies": {
     "gh-pages": "^1.1.0",
+    "mysql": "^2.15.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4"
